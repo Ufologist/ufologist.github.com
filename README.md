@@ -2,6 +2,8 @@
 2015-5-5 重新整理个人介绍和项目经历, 将此git作为个人的[resume](http://ufologist.github.io/resume/)和博客(需要设计一个站点的样式), 博客内容需要从其他历史博客中抽取一些精华放在这里.
 页面样式参考[vitosalvatore](http://www.vitosalvatore.com/)
 
+更帅的写简历方式 [HackMyResume](https://github.com/hacksalot/HackMyResume) | [JSON Resume](http://jsonresume.org/)
+
 传统简历可以参考 http://www.oschina.net/news/64427/oschina-job-2-0 或者其他招聘网站
 
 # 关于我
